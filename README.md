@@ -5,7 +5,7 @@
 - [X] More work
 - [ ] Study for exam
 - [ ] Finish assignment
-- [ ] Take a walk
+- [X] Take a walk
 
 ### Unordered List
 
@@ -14,3 +14,4 @@
 - Item 3
 - Item 4
 - Item 5
+- Item 6
