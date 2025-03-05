@@ -1,7 +1,7 @@
 # demo
 
 ## To-Do List
-- [ ] Do some work
+- [X] Do some work
 - [X] More work
 - [X] Study for exam
 - [ ] Finish assignment
