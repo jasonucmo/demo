@@ -3,7 +3,7 @@
 ## To-Do List
 - [ ] Do some work
 - [X] More work
-- [ ] Study for exam
+- [X] Study for exam
 - [ ] Finish assignment
 - [X] Take a walk
 
@@ -15,3 +15,5 @@
 - Item 4
 - Item 5
 - Item 6
+- Item 7
+
